@@ -1,0 +1,123 @@
+2023-05-30 03:54:40.763 [main] INFO  com.hw.exceptions.ExceptionsRunner - Check the age!
+2023-05-30 04:42:40.044 [main] INFO  com.hw.exceptions.ExceptionsRunner - Enter the price: 
+2023-05-30 04:54:54.312 [main] INFO  com.hw.Main - [Honda, Mercedes, Kia, Toyota, Tesla]
+2023-05-30 04:54:54.313 [main] INFO  com.hw.Main - -------------------------------------
+2023-05-30 04:54:54.313 [main] INFO  com.hw.Main - null
+2023-05-30 04:54:54.313 [main] INFO  com.hw.Main - ---------------------------------------------
+2023-05-30 04:54:54.313 [main] INFO  com.hw.Main - We have that car!
+2023-05-30 04:54:54.313 [main] INFO  com.hw.Main - ------------------------------------------
+2023-05-30 04:54:54.314 [main] INFO  com.hw.Main - true
+2023-05-30 04:54:54.314 [main] INFO  com.hw.Main - [Honda, Mercedes, Toyota, Tesla]
+2023-05-30 04:54:54.314 [main] INFO  com.hw.Main - --------------------------------------------
+2023-05-30 04:54:54.314 [main] INFO  com.hw.Main - {Kia=3, Mercedes=2, Honda=1}
+2023-05-30 04:54:54.314 [main] INFO  com.hw.Main - -----------------------------------------------------
+2023-05-30 04:54:54.314 [main] INFO  com.hw.Main - Key as Kia is found
+2023-05-30 04:54:54.314 [main] INFO  com.hw.Main - ------------------------------------
+2023-05-30 04:54:54.314 [main] INFO  com.hw.Main - null
+2023-05-30 04:54:54.315 [main] INFO  com.hw.Main - -----------------------------------------
+2023-05-30 04:54:54.315 [main] INFO  com.hw.Main - [2, 3, 4]
+2023-05-30 04:54:54.315 [main] INFO  com.hw.Main - -----------------------------------------
+2023-05-30 05:02:01.952 [main] INFO  com.hw.Main - [Honda, Mercedes, Kia, Toyota, Tesla]
+2023-05-30 05:02:01.954 [main] INFO  com.hw.Main - -------------------------------------
+2023-05-30 05:02:01.954 [main] INFO  com.hw.Main - null
+2023-05-30 05:02:01.954 [main] INFO  com.hw.Main - 0
+2023-05-30 05:02:01.954 [main] INFO  com.hw.Main - ---------------------------------------------
+2023-05-30 05:02:01.954 [main] INFO  com.hw.Main - We have that car!
+2023-05-30 05:02:01.954 [main] INFO  com.hw.Main - ------------------------------------------
+2023-05-30 05:02:01.954 [main] INFO  com.hw.Main - true
+2023-05-30 05:02:01.955 [main] INFO  com.hw.Main - [Honda, Mercedes, Toyota, Tesla]
+2023-05-30 05:02:01.955 [main] INFO  com.hw.Main - --------------------------------------------
+2023-05-30 05:02:01.955 [main] INFO  com.hw.Main - {Kia=3, Mercedes=2, Honda=1}
+2023-05-30 05:02:01.955 [main] INFO  com.hw.Main - -----------------------------------------------------
+2023-05-30 05:02:01.955 [main] INFO  com.hw.Main - Key as Kia is found
+2023-05-30 05:02:01.955 [main] INFO  com.hw.Main - ------------------------------------
+2023-05-30 05:02:01.955 [main] INFO  com.hw.Main - null
+2023-05-30 05:02:01.956 [main] INFO  com.hw.Main - -----------------------------------------
+2023-05-30 05:02:01.956 [main] INFO  com.hw.Main - [2, 3, 4]
+2023-05-30 05:02:01.956 [main] INFO  com.hw.Main - -----------------------------------------
+2023-05-30 05:03:21.276 [main] INFO  com.hw.Main - [Honda, Mercedes, Kia, Toyota, Tesla]
+2023-05-30 05:03:21.277 [main] INFO  com.hw.Main - -------------------------------------
+2023-05-30 05:03:21.277 [main] INFO  com.hw.Main - null
+2023-05-30 05:03:21.278 [main] INFO  com.hw.Main - 0
+2023-05-30 05:03:21.278 [main] INFO  com.hw.Main - null
+2023-05-30 05:03:21.278 [main] INFO  com.hw.Main - ---------------------------------------------
+2023-05-30 05:03:21.278 [main] INFO  com.hw.Main - We have that car!
+2023-05-30 05:03:21.278 [main] INFO  com.hw.Main - ------------------------------------------
+2023-05-30 05:03:21.278 [main] INFO  com.hw.Main - true
+2023-05-30 05:03:21.278 [main] INFO  com.hw.Main - [Honda, Mercedes, Toyota, Tesla]
+2023-05-30 05:03:21.278 [main] INFO  com.hw.Main - --------------------------------------------
+2023-05-30 05:03:21.278 [main] INFO  com.hw.Main - {Kia=3, Mercedes=2, Honda=1}
+2023-05-30 05:03:21.278 [main] INFO  com.hw.Main - -----------------------------------------------------
+2023-05-30 05:03:21.278 [main] INFO  com.hw.Main - Key as Kia is found
+2023-05-30 05:03:21.278 [main] INFO  com.hw.Main - ------------------------------------
+2023-05-30 05:03:21.279 [main] INFO  com.hw.Main - null
+2023-05-30 05:03:21.279 [main] INFO  com.hw.Main - -----------------------------------------
+2023-05-30 05:03:21.279 [main] INFO  com.hw.Main - [2, 3, 4]
+2023-05-30 05:03:21.279 [main] INFO  com.hw.Main - -----------------------------------------
+2023-05-30 05:03:48.122 [main] INFO  com.hw.Main - [Honda, Mercedes, Kia, Toyota, Tesla]
+2023-05-30 05:03:48.124 [main] INFO  com.hw.Main - -------------------------------------
+2023-05-30 05:03:48.124 [main] INFO  com.hw.Main - null
+2023-05-30 05:03:48.124 [main] INFO  com.hw.Main - 0
+2023-05-30 05:03:48.124 [main] INFO  com.hw.Main - null
+2023-05-30 05:03:48.124 [main] INFO  com.hw.Main - CustomLinkedList
+2023-05-30 05:03:48.125 [main] INFO  com.hw.Main - ---------------------------------------------
+2023-05-30 05:03:48.125 [main] INFO  com.hw.Main - We have that car!
+2023-05-30 05:03:48.125 [main] INFO  com.hw.Main - ------------------------------------------
+2023-05-30 05:03:48.125 [main] INFO  com.hw.Main - true
+2023-05-30 05:03:48.125 [main] INFO  com.hw.Main - [Honda, Mercedes, Toyota, Tesla]
+2023-05-30 05:03:48.125 [main] INFO  com.hw.Main - --------------------------------------------
+2023-05-30 05:03:48.125 [main] INFO  com.hw.Main - {Kia=3, Mercedes=2, Honda=1}
+2023-05-30 05:03:48.125 [main] INFO  com.hw.Main - -----------------------------------------------------
+2023-05-30 05:03:48.125 [main] INFO  com.hw.Main - Key as Kia is found
+2023-05-30 05:03:48.125 [main] INFO  com.hw.Main - ------------------------------------
+2023-05-30 05:03:48.126 [main] INFO  com.hw.Main - null
+2023-05-30 05:03:48.126 [main] INFO  com.hw.Main - -----------------------------------------
+2023-05-30 05:03:48.126 [main] INFO  com.hw.Main - [2, 3, 4]
+2023-05-30 05:03:48.126 [main] INFO  com.hw.Main - -----------------------------------------
+2023-05-30 05:04:48.515 [main] INFO  com.hw.Main - [Honda, Mercedes, Kia, Toyota, Tesla]
+2023-05-30 05:04:48.516 [main] INFO  com.hw.Main - -------------------------------------
+2023-05-30 05:04:48.516 [main] INFO  com.hw.Main - null
+2023-05-30 05:04:48.517 [main] INFO  com.hw.Main - 0
+2023-05-30 05:04:48.517 [main] INFO  com.hw.Main - null
+2023-05-30 05:04:48.517 [main] INFO  com.hw.Main - CustomLinkedList
+2023-05-30 05:04:48.517 [main] INFO  com.hw.Main - ---------------------------------------------
+2023-05-30 05:04:48.517 [main] INFO  com.hw.Main - We have that car!
+2023-05-30 05:04:48.517 [main] INFO  com.hw.Main - ------------------------------------------
+2023-05-30 05:04:48.517 [main] INFO  com.hw.Main - true
+2023-05-30 05:04:48.517 [main] INFO  com.hw.Main - [Honda, Mercedes, Toyota, Tesla]
+2023-05-30 05:04:48.517 [main] INFO  com.hw.Main - --------------------------------------------
+2023-05-30 05:04:48.517 [main] INFO  com.hw.Main - {Kia=3, Mercedes=2, Honda=1}
+2023-05-30 05:04:48.517 [main] INFO  com.hw.Main - -----------------------------------------------------
+2023-05-30 05:04:48.517 [main] INFO  com.hw.Main - Key as Kia is found
+2023-05-30 05:04:48.517 [main] INFO  com.hw.Main - ------------------------------------
+2023-05-30 05:04:48.518 [main] INFO  com.hw.Main - null
+2023-05-30 05:04:48.518 [main] INFO  com.hw.Main - -----------------------------------------
+2023-05-30 05:04:48.518 [main] INFO  com.hw.Main - [2, 3, 4]
+2023-05-30 05:04:48.518 [main] INFO  com.hw.Main - -----------------------------------------
+2023-05-30 09:45:50.020 [main] INFO  com.hw.Main - [Honda, Mercedes, Kia, Toyota, Tesla]
+2023-05-30 09:45:50.022 [main] INFO  com.hw.Main - -------------------------------------
+2023-05-30 09:49:25.136 [main] INFO  com.hw.Main - [Honda, Mercedes, Kia, Toyota, Tesla]
+2023-05-30 09:49:25.138 [main] INFO  com.hw.Main - -------------------------------------
+2023-05-30 09:49:25.138 [main] INFO  com.hw.Main - We have that car!
+2023-05-30 09:49:25.138 [main] INFO  com.hw.Main - ------------------------------------------
+2023-05-30 09:49:25.138 [main] INFO  com.hw.Main - true
+2023-05-30 09:49:25.138 [main] INFO  com.hw.Main - [Honda, Mercedes, Toyota, Tesla]
+2023-05-30 09:49:25.138 [main] INFO  com.hw.Main - --------------------------------------------
+2023-05-30 09:49:25.138 [main] INFO  com.hw.Main - {Kia=3, Mercedes=2, Honda=1}
+2023-05-30 09:49:25.138 [main] INFO  com.hw.Main - -----------------------------------------------------
+2023-05-30 09:49:25.138 [main] INFO  com.hw.Main - Key as Kia is found
+2023-05-30 09:49:25.138 [main] INFO  com.hw.Main - ------------------------------------
+2023-05-30 09:49:25.139 [main] INFO  com.hw.Main - null
+2023-05-30 09:49:25.139 [main] INFO  com.hw.Main - -----------------------------------------
+2023-05-30 09:49:25.139 [main] INFO  com.hw.Main - [2, 3, 4]
+2023-05-30 09:49:25.139 [main] INFO  com.hw.Main - -----------------------------------------
+2023-05-30 09:53:05.417 [main] INFO  com.hw.Main - LinkedList!
+2023-05-30 09:53:05.420 [main] INFO  com.hw.Main - Linked list contains 4 cars
+2023-05-30 09:53:05.423 [main] INFO  com.hw.Main - List of cars: [<Mercedes>][Tesla][BMW][KIA][FORD][BMW]
+2023-05-30 09:53:53.113 [main] INFO  com.hw.Main - LinkedList!
+2023-05-30 09:53:53.116 [main] INFO  com.hw.Main - Linked list contains 4 cars
+2023-05-30 09:53:53.119 [main] INFO  com.hw.Main - List of cars: [<Mercedes>][Tesla][BMW][KIA][FORD][BMW]
+2023-05-30 09:53:53.119 [main] INFO  com.hw.Main - The list is different now: [<Mercedes>][Tesla][BMW][KIA][FORD][BMW][BMW]
+2023-05-30 10:05:21.949 [main] INFO  com.hw.Main - LinkedList!
+2023-05-30 10:05:21.952 [main] INFO  com.hw.Main - Linked list contains 5 cars
+2023-05-30 10:05:21.955 [main] INFO  com.hw.Main - List of cars: [<Mercedes>][Tesla][BMW][KIA][FORD]
